@@ -4,8 +4,6 @@
 # KELAS TI.24.A4
 # NIM : 312410357
 # MATKUL: BAHASA PEMROGRAMAN
-# ![WhatsApp Image 2024-10-20 at 10 55 01_a29547f6](https://github.com/user-attachments/assets/c75f7ade-4c8e-4282-bab8-a60d34b2e7cc)
-# PRATIKUM 3
 # Latihan KE 1
 # ![Screenshot 2024-10-15 143542](https://github.com/user-attachments/assets/7da59fdf-531e-4872-b291-07ccd0f28c9b)
 ```Python
@@ -123,3 +121,7 @@ String Format 1 Pada syntax / source code strring format satu akan menampilkan o
 secara Default, .format() menggunakan rata kiri, angka ke kanan. kita dapat menggunakan opsi opsional <,^, atau > untuk mengatur perataan kiri, tengah, atau kanan. Contoh lain dalam penggunaan .format() sebagai berikut :
 Untuk hasil dari String Format 2 adalah :
 # ![Screenshot 2024-10-15 141347](https://github.com/user-attachments/assets/78812982-5628-46be-a65d-f8147092cf13)
+# TUGAS LATIHAN
+# ![WhatsApp Image 2024-10-20 at 10 55 01_a29547f6](https://github.com/user-attachments/assets/4175ca96-9d45-4118-bc0d-c326869db5dd)
+# Flowchart Bilangan terbesar dari 3 buah bilangan :
+# ![Gambar WhatsApp 2024-10-17 pukul 00 34 59_95aec777](https://github.com/user-attachments/assets/ff1cf187-a75f-49a4-8a13-700322f9b92a)
