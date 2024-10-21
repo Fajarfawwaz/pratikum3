@@ -6,7 +6,7 @@
 # MATKUL: BAHASA PEMROGRAMAN
 # ![WhatsApp Image 2024-10-20 at 10 55 01_a29547f6](https://github.com/user-attachments/assets/c75f7ade-4c8e-4282-bab8-a60d34b2e7cc)
 # PRATIKUM 3
-# Latihan 1
+# Latihan KE 1
 # ![Screenshot 2024-10-15 143542](https://github.com/user-attachments/assets/7da59fdf-531e-4872-b291-07ccd0f28c9b)
 ```Python
 #penggunaan end
@@ -49,3 +49,27 @@ Penggunaan separator Pendeklarasian beberapa variable beserta nilainya
 ```python
 w,x,y,z=10,15,20,25
 ```
+Menampilkan hasil dari variable tiap-tiap variable
+```Python
+print(w,x,y,z)
+```
+Menampilkan hasil dari tiap-tiap variable dengan menggunakan pemirsah : (koma)
+```python
+print(w,x,y,z,sep=",")
+```
+Menampilkan hasil dari tiap-tiap variable dengan menggunakan pemirsah
+```Python
+print(w,x,y,z,sep="")
+```
+Menampilkan hasil dari tiap-tiap variable dengan menggunakan pemirsah : (titik dua)
+```Python
+print(w,x,y,z,sep=":")
+```
+Menampilkan hasil dari tiap-tiap variable dengan menggunakan pemirsah -----
+```Python
+print(w,x,y,z,sep="-----")
+```
+hasil dari syntax / source code diatas adalah seperti berikut ini :
+# ![Screenshot 2024-10-15 133703](https://github.com/user-attachments/assets/1a287e65-bd0e-46f9-9f51-1c4eea73d767)
+# LATIHAN KE 2
+# ![Screenshot 2024-10-15 135657](https://github.com/user-attachments/assets/e108554a-cf40-4257-93c0-c2491b9a134a)
