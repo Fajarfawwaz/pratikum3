@@ -37,3 +37,15 @@ Penggunaan print () digunakan untuk mencetak output, seperti syntax dibawah ini 
 ```Python
 print()
 ```
+Syntax dibawah ini digunakan untuk menampilkan output berupa string
+```Python
+print('X')
+print('Y')
+print('z')
+```
+Hasil dari source code tersebut seperti gambar dibawah ini :
+# ![Screenshot 2024-10-15 133640](https://github.com/user-attachments/assets/bbd4b023-3b5c-4926-93a6-61ce7606138b)
+Penggunaan separator Pendeklarasian beberapa variable beserta nilainya
+```python
+w,x,y,z=10,15,20,25
+```
