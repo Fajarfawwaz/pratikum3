@@ -127,4 +127,8 @@ Untuk hasil dari String Format 2 adalah :
 # ![Gambar WhatsApp 2024-10-17 pukul 00 34 59_95aec777](https://github.com/user-attachments/assets/ff1cf187-a75f-49a4-8a13-700322f9b92a)
 # Program bilangan terbesar dari 3 buah yg di inputkan :
 # ![Screenshot 2024-10-21 033649](https://github.com/user-attachments/assets/42aba9f2-287a-409a-a294-ee9f552d5601)
-
+melalui pernyataan kondisi if-else, program membandingkan bilangan pertama dengan bilangan kedua dan ketiga, dan seterusnya
+# Flowchart Bilangan terbesar dari Bilangan N :
+# ![Gambar WhatsApp 2024-10-17 pukul 12 53 34_cd402e92](https://github.com/user-attachments/assets/2cb0f61c-e657-43ea-907a-0987154191cb)
+# Program bilangan terbesar N
+# ![Screenshot 2024-10-21 034141](https://github.com/user-attachments/assets/ea0afaf3-a860-4f67-b6f1-7e120e13fc7a)
