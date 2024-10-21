@@ -73,3 +73,18 @@ hasil dari syntax / source code diatas adalah seperti berikut ini :
 # ![Screenshot 2024-10-15 133703](https://github.com/user-attachments/assets/1a287e65-bd0e-46f9-9f51-1c4eea73d767)
 # LATIHAN KE 2
 # ![Screenshot 2024-10-15 135657](https://github.com/user-attachments/assets/e108554a-cf40-4257-93c0-c2491b9a134a)
+```Python
+a=int(input("masukkan nilai a:"))
+b=int(input("masukkan nilai b:"))
+print("variable a=",a)
+print("variable b=",b)
+print("hasil penggabungan {1}&{0}=%d".format(a,b) %(a+b))
+
+#konversi nilai variable
+a=int(a)
+b=int(b)
+print("hasil pejumlahan {1}+{0}=%d".format(a,b) %(a+b))
+print("hasil pembagian {1}/{0}=%d".format(a,b) %(a/b))
+```
+Sekarang Kita akan coba lagi untuk run file tersebut, maka akan muncul seperti gambar dibawah ini :
+# ![Screenshot 2024-10-15 140328](https://github.com/user-attachments/assets/dac02ba3-1821-4a93-9129-86b7be5ee1ab)
