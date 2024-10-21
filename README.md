@@ -8,7 +8,20 @@
 # PRATIKUM 3
 # Latihan 1
 # ![Screenshot 2024-10-15 143542](https://github.com/user-attachments/assets/7da59fdf-531e-4872-b291-07ccd0f28c9b)
-```Python #penggunaan end
+```Python
+#penggunaan end
 print('A', end='')
 print('B', end='')
 print('C', end='')
+print()
+print('X')
+print('Y')
+print('z')
+
+#penggunaan separator
+w, x, y, z = 10, 15, 20, 25
+print(w, x, y, z)
+print(w, x, y, z, sep=',')
+print(w, x, y, z, sep='')
+print(w, x, y, z, sep=':')
+print(w, x, y, z, sep='.....')
