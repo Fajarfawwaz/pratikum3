@@ -33,4 +33,7 @@ print('A', end='')
 print('B', end='')
 print('C', end='')
 ```
-
+Penggunaan print () digunakan untuk mencetak output, seperti syntax dibawah ini :
+```Python
+print()
+```
