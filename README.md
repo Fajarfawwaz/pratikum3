@@ -132,5 +132,4 @@ melalui pernyataan kondisi if-else, program membandingkan bilangan pertama denga
 # ![Gambar WhatsApp 2024-10-17 pukul 12 53 34_cd402e92](https://github.com/user-attachments/assets/2cb0f61c-e657-43ea-907a-0987154191cb)
 # Program bilangan terbesar N
 # ![Screenshot 2024-10-21 034141](https://github.com/user-attachments/assets/ea0afaf3-a860-4f67-b6f1-7e120e13fc7a)
-setiap angka yang diinputkan diperiksa apakah lebih besar dari angka terbesar yang saat ini disimpan
-dan jika pengguna memasukan angka 0, program akan memberi tahu bahwa tidak ada bilangan yang dimasukkan dan tidak dapat melanjutkan untuk meminta bilangan selanjutnya
+# setiap angka yang diinputkan diperiksa apakah lebih besar dari angka terbesar yang saat ini disimpan dan jika pengguna memasukan angka 0, program akan memberi tahu bahwa tidak ada bilangan yang dimasukkan dan tidak dapat melanjutkan untuk meminta bilangan selanjutnya
