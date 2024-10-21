@@ -8,7 +8,7 @@
 # PRATIKUM 3
 # Latihan 1
 # ![Screenshot 2024-10-15 143542](https://github.com/user-attachments/assets/7da59fdf-531e-4872-b291-07ccd0f28c9b)
-#penggunaan end
+```Python #penggunaan end
 print('A', end='')
 print('B', end='')
 print('C', end='')
