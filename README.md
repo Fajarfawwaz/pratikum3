@@ -125,3 +125,5 @@ Untuk hasil dari String Format 2 adalah :
 # ![WhatsApp Image 2024-10-20 at 10 55 01_a29547f6](https://github.com/user-attachments/assets/4175ca96-9d45-4118-bc0d-c326869db5dd)
 # Flowchart Bilangan terbesar dari 3 buah bilangan :
 # ![Gambar WhatsApp 2024-10-17 pukul 00 34 59_95aec777](https://github.com/user-attachments/assets/ff1cf187-a75f-49a4-8a13-700322f9b92a)
+# Program bilangan terbesar dari 3 buah yg di inputkan :
+# ![Gambar WhatsApp 2024-10-18 pukul 10 48 10_a0a2f327](https://github.com/user-attachments/assets/ee05b2eb-9bb5-4acc-8fe3-8dc68898ab3e)
